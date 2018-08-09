@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Elias\Desktop\App_Development\Flutter\todo_App\todo_app\build\path_provider\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c61001b313e136f96cadd8fb4fcd6c2ec8616461">
+        <dex dex="C:\Users\Elias\Desktop\App_Development\Flutter\todo_App\todo_app\build\app\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+
+</items>
